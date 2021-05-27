@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleSnakeScraper", "BattleSnakeScraper\BattleSnakeScraper.csproj", "{8654F56B-3F40-4FC1-B783-8B6709FBD0A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleSnakeScraper.Core", "BattleSnakeScraper.Core\BattleSnakeScraper.Core.csproj", "{FE6042CE-EBFE-4BC6-A463-C323973A5AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleSnakeScraper.Data", "BattleSnakeScraper.Data\BattleSnakeScraper.Data.csproj", "{41D5D8CF-ABFD-4684-91E6-E94692236C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8654F56B-3F40-4FC1-B783-8B6709FBD0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8654F56B-3F40-4FC1-B783-8B6709FBD0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8654F56B-3F40-4FC1-B783-8B6709FBD0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8654F56B-3F40-4FC1-B783-8B6709FBD0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6042CE-EBFE-4BC6-A463-C323973A5AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6042CE-EBFE-4BC6-A463-C323973A5AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6042CE-EBFE-4BC6-A463-C323973A5AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6042CE-EBFE-4BC6-A463-C323973A5AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D5D8CF-ABFD-4684-91E6-E94692236C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D5D8CF-ABFD-4684-91E6-E94692236C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D5D8CF-ABFD-4684-91E6-E94692236C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D5D8CF-ABFD-4684-91E6-E94692236C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
